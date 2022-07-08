@@ -1,4 +1,4 @@
-<h2 align="left">Always learning what I can to change the World!</h2>
+<h2 align="left">Always learning, applying...and REPEATING!</h2>
 
 ###
 
