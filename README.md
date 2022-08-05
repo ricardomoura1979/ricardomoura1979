@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 
 I'm currently looking for a internship/job;<br>I'm currently learning more about JS, React, Node, Cybersecurity and Digital Forensics;<br>
 
 
@@ -15,7 +15,7 @@ I'm currently looking for a internship/job;<br>I'm currently learning more about
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ricardomoura1979&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
