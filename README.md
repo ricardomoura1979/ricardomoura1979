@@ -1,5 +1,5 @@
 # 
-Inquisitive Full-Stack web developer who transitioned from the legal tech background. I always had a driven passion for technology which inspired me to create a social media within the Cryptocurrency and Blockchain field. Through this drive, I completed my Full Stack Web Development Diploma from Lighthouse Labs to continue my knowledge within the cofield. I love creating applications that are visually appealing and provide excellent results to end users.;<br>
+Inquisitive Full-Stack web developer who transitioned from a legal tech background. I always had a driven passion for technology which inspired me to create social media within the Cryptocurrency and Blockchain field. Through this drive, I completed my Full Stack Web Development Diploma from Lighthouse Labs to continue my knowledge within the cofield. I love creating applications that are visually appealing and provide excellent results to end users.;<br>
 
 
 ## 🌐 Socials:
